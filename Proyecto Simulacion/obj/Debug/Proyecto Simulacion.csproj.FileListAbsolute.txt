@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\bin\Debug\Proyecto Simulacion.exe.config
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\bin\Debug\Proyecto Simulacion.exe
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\bin\Debug\Proyecto Simulacion.pdb
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto Simulacion.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto_Simulacion.Form1.resources
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto_Simulacion.Properties.Resources.resources
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto Simulacion.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto Simulacion.exe
+C:\Users\victo\source\repos\Proyecto Simulacion\Proyecto Simulacion\obj\Debug\Proyecto Simulacion.pdb
